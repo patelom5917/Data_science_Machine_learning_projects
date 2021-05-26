@@ -3,5 +3,5 @@ This repository contain different Exploratory Data Analysis , Data Visualization
 ## 1. Flight Fare Prediction 
 * dataset link : https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh?select=Data_Train.xlsx
 * Notebook contains in-depth insight into Dataset - Exploratory Data Analysis, Visualization and Data Preparation.
-* This Notebook contains method for feature selection based on correlation with target attribute.
+* This [Notebook](https://github.com/patelom5917/Machine_learning_projects/blob/master/Flight%20Fare%20Prediction.ipynb) contains method for feature selection based on correlation with target attribute.
 * Tried different algorithms for regression and got ~80% accuracy using RandomForestRegressor.
