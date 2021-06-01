@@ -10,3 +10,9 @@ This repository contain different Exploratory Data Analysis , Data Visualization
 * dataset link : https://www.kaggle.com/vikrishnan/boston-house-prices?select=housing.csv
 * In this [Notbook](https://github.com/patelom5917/Machine_learning_projects/blob/master/Boston%20house%20price%20prediction.ipynb) i perform Exploratory Data Analysis and Visualization and at the end i applied many machine learning algorithm to predict house price 
 * And i got highest accuracy around 73% and it's good for regression and i got that accuracy using GradientBoostingRegressor
+
+## 3. Credit Card Fraud Classification
+* dataset link : https://www.kaggle.com/mlg-ulb/creditcardfraud?select=creditcard.csv
+* In this [Notbook](https://github.com/patelom5917/Machine_learning_projects/blob/master/Boston%20house%20price%20prediction.ipynb) i perform Exploratory Data Analysis and Visualization, apply Under Sampling, Over Sampling, HyperParameter tuning, Outlier Handling and at the end i applied many machine learning algorithm to classify Credit card transaction is Fraud or Non-Fraud 
+* I have uploaded two version of this project
+* Version 1: In this Version I apply Under Sampling to balance data and I got highest Recall Score: 0.92, Precision Score: 0.98, F1 Score: 0.95, Accuracy Score: 0.95 and it's good for Classification and i got that accuracy using two algorithm SVC and Logistic Regression
