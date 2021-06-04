@@ -20,4 +20,4 @@ This repository contain different Exploratory Data Analysis , Data Visualization
 ## 4. Pima Indians Diabetes 
 * dataset link : https://www.kaggle.com/uciml/pima-indians-diabetes-database
 * The Pima Indians Diabetes Dataset involves predicting the onset of diabetes within 5 years in Pima Indians given medical details.It is a binary (2-class) classification problem
-* This [Notebook]() contain Basic Exploratory Data Analysis And Visualization and at the end i apply many algorithm to get good accuracy and i get ~76% accuracy on test data and `92% on whole dataset. 
+* This [Notebook](https://github.com/patelom5917/Data_science_Machine_learning_projects/blob/master/Pima%20Indians%20Diabetes%20.ipynb) contain Basic Exploratory Data Analysis And Visualization and at the end i apply many algorithm to get good accuracy and i get ~76% accuracy on test data and `92% on whole dataset. 
