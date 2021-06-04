@@ -17,3 +17,7 @@ This repository contain different Exploratory Data Analysis , Data Visualization
 * I have uploaded two version of this project
 * Version 1: In this [Version](https://github.com/patelom5917/Machine_learning_projects/blob/master/Credit%20card%20fraud%20detection-1.ipynb) I apply Under Sampling to balance data and I got highest Recall Score: 0.92, Precision Score: 0.98, F1 Score: 0.95, Accuracy Score: 0.95 and i got that accuracy using two algorithm SVC and Logistic Regression
 * Version 2: In this [Version](https://github.com/patelom5917/Machine_learning_projects/blob/master/Credit%20Card%20Fraud%20Detection-2.ipynb) I apply same feature engineering and Exploratory data analysis as Version 1 in this version i only changed the method that convert imblance data into balance data and this method is Synthetic Minority Over-Sampling Technique (SMOTE) and i got ~99.94 % accuracy using Random Forest Classifier
+## 4. Pima Indians Diabetes 
+* dataset link : https://www.kaggle.com/uciml/pima-indians-diabetes-database
+* The Pima Indians Diabetes Dataset involves predicting the onset of diabetes within 5 years in Pima Indians given medical details.It is a binary (2-class) classification problem
+* This [Notebook]() contain Basic Exploratory Data Analysis And Visualization and at the end i apply many algorithm to get good accuracy and i get ~76% accuracy on test data and `92% on whole dataset. 
